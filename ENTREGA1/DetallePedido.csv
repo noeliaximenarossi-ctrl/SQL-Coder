@@ -1,0 +1,6 @@
+id_detalle,id_pedido,id_libro,cantidad,precio_unitario
+1,1,1,1,15999.9
+2,1,4,2,14000.0
+3,2,3,1,22000.0
+4,3,1,1,15999.9
+5,3,2,1,17999.0

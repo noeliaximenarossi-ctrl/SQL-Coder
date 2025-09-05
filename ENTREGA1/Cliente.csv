@@ -1,0 +1,5 @@
+id_cliente,nombre,apellido,email,telefono,direccion
+1,Ana,Pérez,ana.perez@example.com,1111-1111,Av. Siempreviva 123
+2,Luis,Gómez,luis.gomez@example.com,2222-2222,Calle Falsa 456
+3,Noelia,Rossi,noelia.rossi@example.com,3333-3333,Calle del Buen Libro 789
+4,Carla,Domínguez,carla.dom@example.com,4444-4444,Av. Libros 1001
