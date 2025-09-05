@@ -1,0 +1,7 @@
+id_libro,titulo,anio_publicacion,precio,stock,id_editorial
+1,Rayuela,1963,15999.9,10,1
+2,Cien años de soledad,1967,17999.0,7,2
+3,Nuestra parte de noche,2019,22000.0,5,3
+4,Distancia de rescate,2014,14000.0,8,4
+5,Respiración artificial,1980,18000.0,6,6
+6,Las invitadas,2020,21000.0,4,5
